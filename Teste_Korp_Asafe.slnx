@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ImpressãoApi/ImpressaoApi.csproj" />
+  <Project Path="NotasApi/NotasApi.csproj" />
+  <Project Path="ProdutosApi/ProdutosApi.csproj" />
+</Solution>

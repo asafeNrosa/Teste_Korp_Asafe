@@ -1,0 +1,10 @@
+﻿namespace ProdutosApi.Models;
+
+public class Produto
+{
+   public int Id { get; set; }
+    public string Codigo { get; set; } = string.Empty;
+    public string descricao { get; set; } = string.Empty;
+    public int Saldo { get; set; }
+    public DateTime DataCriacao { get; set; } = DateTime.Now;
+}

@@ -1,0 +1,6 @@
+@ImpressãoApi_HostAddress = http://localhost:5191
+
+GET {{ImpressãoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
